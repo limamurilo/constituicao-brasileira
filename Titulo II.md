@@ -218,7 +218,7 @@ LXXVIII a todos, no âmbito judicial e administrativo, são assegurados a razoá
 
 ## Capítulo II – Dos Direitos Sociais (arts. 6o a 11)
 
- Art. 6º São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+~~Art. 6º São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição~~.
 Art. 6o São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.(Redação dada pela Emenda Constitucional nº 26, de 2000)
 Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional nº 64, de 2010)
 Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.   (Redação dada pela Emenda Constitucional nº 90, de 2015)
