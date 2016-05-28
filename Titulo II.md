@@ -219,8 +219,11 @@ LXXVIII a todos, no âmbito judicial e administrativo, são assegurados a razoá
 ## Capítulo II – Dos Direitos Sociais (arts. 6o a 11)
 
 ~~Art. 6º São direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição~~.
-Art. 6o São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.(Redação dada pela Emenda Constitucional nº 26, de 2000)
-Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional nº 64, de 2010)
+
+~~Art. 6o São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.(Redação dada pela Emenda Constitucional nº 26, de 2000~~)
+
+~~Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional nº 64, de 2010~~)
+
 Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.   (Redação dada pela Emenda Constitucional nº 90, de 2015)
 
 Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
@@ -247,7 +250,7 @@ IX - remuneração do trabalho noturno superior à do diurno;
 
 XI - participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;
 
-XII - salário-família para os seus dependentes;
+~~XII - salário-família para os seus dependentes~~;
 
  XII - salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei;(Redação dada pela Emenda Constitucional nº 20, de 1998)
 
@@ -275,7 +278,7 @@ XXIII - adicional de remuneração para as atividades penosas, insalubres ou per
 
 XXIV - aposentadoria;
 
-XXV - assistência gratuita aos filhos e dependentes desde o nascimento até seis anos de idade em creches e pré-escolas;
+~~XXV - assistência gratuita aos filhos e dependentes desde o nascimento até seis anos de idade em creches e pré-escolas~~;
 
  XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas; (Redação dada pela Emenda Constitucional nº 53, de 2006)
 
@@ -285,9 +288,10 @@ XXVII - proteção em face da automação, na forma da lei;
 
  XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
 
-XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de:
-a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato; 
-      b) até dois anos após a extinção do contrato, para o trabalhador rural;
+~~XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de~~:
+~~a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato~~; 
+      ~~b) até dois anos após a extinção do contrato, para o trabalhador rural~~;
+      
 XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho;(Redação dada pela Emenda Constitucional nº 28, de 25/05/2000)
 
 a) (Revogada). (Redação dada pela Emenda Constitucional nº 28, de 25/05/2000)
@@ -300,13 +304,13 @@ XXXI - proibição de qualquer discriminação no tocante a salário e critério
 
 XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;
 
-XXXIII - proibição de trabalho noturno, perigoso ou insalubre aos menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz;
+~~XXXIII - proibição de trabalho noturno, perigoso ou insalubre aos menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz~~;
 
 XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Redação dada pela Emenda Constitucional nº 20, de 1998)
 
 XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso
 
-Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VIII, XV, XVII, XVIII, XIX, XXI e XXIV, bem como a sua integração à previdência social.
+~~Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VIII, XV, XVII, XVIII, XIX, XXI e XXIV, bem como a sua integração à previdência social~~.
 
 Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social.   (Redação dada pela Emenda Constitucional nº 72, de 2013)
 
@@ -340,11 +344,171 @@ Art. 10. É assegurada a participação dos trabalhadores e empregadores nos col
 
 Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
 
-## Capítulo III – Da nacionalidade (arts. 12 e 13)
+## Capítulo III – Da Nacionalidade (arts. 12 e 13)
+Art. 12. São brasileiros:
 
+I - natos:
+
+a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;
+
+b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;
+
+~~c) os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente, ou venham a residir na República Federativa do Brasil antes da maioridade e, alcançada esta, optem, em qualquer tempo, pela nacionalidade brasileira~~;
+      c) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que venham a residir na República Federativa do Brasil e optem, em qualquer tempo, pela nacionalidade brasileira;(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição brasileira competente ou venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira; (Redação dada pela Emenda Constitucional nº 54, de 2007)
+
+II - naturalizados:
+
+a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;
+
+~~b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de trinta anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira~~.
+
+b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+§ ~~1º - Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro nato, salvo os casos previstos nesta Constituição~~.
+
+§ 1º   Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileiro, salvo os casos previstos nesta Constituição.(Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+§ 2º A lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos nesta Constituição.
+
+§ 3º São privativos de brasileiro nato os cargos:
+
+I - de Presidente e Vice-Presidente da República;
+
+II - de Presidente da Câmara dos Deputados;
+
+III - de Presidente do Senado Federal;
+
+IV - de Ministro do Supremo Tribunal Federal;
+
+V - da carreira diplomática;
+
+VI - de oficial das Forças Armadas.
+
+VII - de Ministro de Estado da Defesa(Incluído pela Emenda Constitucional nº 23, de 1999)
+
+§ 4º - Será declarada a perda da nacionalidade do brasileiro que:
+
+I - tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional;
+
+~~II - adquirir outra nacionalidade por naturalização voluntária~~.
+
+II - adquirir outra nacionalidade, salvo nos casos: (Redação dada pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+a) de reconhecimento de nacionalidade originária pela lei estrangeira; (Incluído pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+b) de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis; (Incluído pela Emenda Constitucional de Revisão nº 3, de 1994)
+
+Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil.
+
+§ 1º São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais.
+
+§ 2º Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.
 
 ## Capítulo IV – Dos Direitos Políticos (arts. 14 a 16) 
+Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 
+I - plebiscito;
+
+II - referendo;
+
+III - iniciativa popular.
+
+§ 1º O alistamento eleitoral e o voto são:
+
+I - obrigatórios para os maiores de dezoito anos;
+
+II - facultativos para:
+
+a) os analfabetos;
+
+b) os maiores de setenta anos;
+
+c) os maiores de dezesseis e menores de dezoito anos.
+
+§ 2º Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.
+
+§ 3º São condições de elegibilidade, na forma da lei:
+
+I - a nacionalidade brasileira;
+
+II - o pleno exercício dos direitos políticos;
+
+III - o alistamento eleitoral;
+
+IV - o domicílio eleitoral na circunscrição;
+
+ V - a filiação partidária;    Regulamento
+
+VI - a idade mínima de:
+
+a) trinta e cinco anos para Presidente e Vice-Presidente da República e Senador;
+
+b) trinta anos para Governador e Vice-Governador de Estado e do Distrito Federal;
+
+c) vinte e um anos para Deputado Federal, Deputado Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz;
+
+d) dezoito anos para Vereador.
+
+§ 4º São inelegíveis os inalistáveis e os analfabetos.
+
+§ ~~5º São inelegíveis para os mesmos cargos, no período subseqüente, o Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído nos seis meses anteriores ao pleito~~.
+
+§ 5º O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subseqüente.(Redação dada pela Emenda Constitucional nº 16, de 1997)
+
+§ 6º Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até seis meses antes do pleito.
+
+§ 7º São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consangüíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição.
+
+ § 8º O militar alistável é elegível, atendidas as seguintes condições:
+
+I - se contar menos de dez anos de serviço, deverá afastar-se da atividade;
+
+II - se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade.
+
+§ ~~9º Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta~~.
+
+§ 9º Lei complementar estabelecerá outros casos de inelegibilidade e os prazos de sua cessação, a fim de proteger a probidade administrativa, a moralidade para exercício de mandato considerada vida pregressa do candidato, e a normalidade e legitimidade das eleições contra a influência do poder econômico ou o abuso do exercício de função, cargo ou emprego na administração direta ou indireta. (Redação dada pela Emenda Constitucional de Revisão nº 4, de 1994)
+
+§ 10 - O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de quinze dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude.
+
+§ 11 - A ação de impugnação de mandato tramitará em segredo de justiça, respondendo o autor, na forma da lei, se temerária ou de manifesta má-fé.
+
+Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de:
+
+I - cancelamento da naturalização por sentença transitada em julgado;
+
+II - incapacidade civil absoluta;
+
+III - condenação criminal transitada em julgado, enquanto durarem seus efeitos;
+
+IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII;
+
+V - improbidade administrativa, nos termos do art. 37, § 4º.
+
+~~Art. 16 A lei que alterar o processo eleitoral só entrará em vigor um ano após sua promulgação~~.
+
+Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. (Redação dada pela Emenda Constitucional nº 4, de 1993)
 
 ## Capítulo V – Dos Partidos Políticos (art. 17)
 
+ Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento
+
+I - caráter nacional;
+
+II - proibição de recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes;
+
+III - prestação de contas à Justiça Eleitoral;
+
+IV - funcionamento parlamentar de acordo com a lei.
+
+§ ~~1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento, devendo seus estatutos estabelecer normas de fidelidade e disciplina partidárias~~.
+
+§ 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os critérios de escolha e o regime de suas coligações eleitorais, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, devendo seus estatutos estabelecer normas de disciplina e fidelidade partidária. (Redação dada pela Emenda Constitucional nº 52, de 2006)
+
+§ 2º Os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.
+
+§ 3º Os partidos políticos têm direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei.
+
+§ 4º É vedada a utilização pelos partidos políticos de organização paramilitar.
