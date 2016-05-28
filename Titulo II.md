@@ -224,9 +224,9 @@ LXXVIII a todos, no âmbito judicial e administrativo, são assegurados a razoá
 
 ~~Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Redação dada pela Emenda Constitucional nº 64, de 2010~~)
 
-Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.   (Redação dada pela Emenda Constitucional nº 90, de 2015)
+**Art. 6º** São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.   (Redação dada pela Emenda Constitucional nº 90, de 2015)
 
-Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
+**Art. 7º** São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
 
 I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;
 
@@ -288,7 +288,7 @@ XXVII - proteção em face da automação, na forma da lei;
 
  XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
 
-~~XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de~~:
+~~XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de~~;:
 ~~a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato~~; 
       ~~b) até dois anos após a extinção do contrato, para o trabalhador rural~~;
       
@@ -314,7 +314,7 @@ XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício per
 
 Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social.   (Redação dada pela Emenda Constitucional nº 72, de 2013)
 
-Art. 8º É livre a associação profissional ou sindical, observado o seguinte:
+**Art. 8º** É livre a associação profissional ou sindical, observado o seguinte:
 
 I - a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical;
 
@@ -334,18 +334,18 @@ VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da c
 
 Parágrafo único. As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer.
 
-Art. 9º É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.
+**Art. 9º** É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.
 
 § 1º A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.
 
 § 2º Os abusos cometidos sujeitam os responsáveis às penas da lei.
 
-Art. 10. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.
+**Art. 10**. É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.
 
-Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
+**Art. 11**. Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
 
 ## Capítulo III – Da Nacionalidade (arts. 12 e 13)
-Art. 12. São brasileiros:
+**Art. 12**. São brasileiros:
 
 I - natos:
 
@@ -400,14 +400,14 @@ a) de reconhecimento de nacionalidade originária pela lei estrangeira; (Incluí
 
 b) de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em estado estrangeiro, como condição para permanência em seu território ou para o exercício de direitos civis; (Incluído pela Emenda Constitucional de Revisão nº 3, de 1994)
 
-Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil.
+**Art. 13**. A língua portuguesa é o idioma oficial da República Federativa do Brasil.
 
 § 1º São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais.
 
 § 2º Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.
 
 ## Capítulo IV – Dos Direitos Políticos (arts. 14 a 16) 
-Art. 14. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
+**Art. 14**. A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 
 I - plebiscito;
 
@@ -493,7 +493,7 @@ Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua
 
 ## Capítulo V – Dos Partidos Políticos (art. 17)
 
- Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento
+**Art. 17**. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: Regulamento
 
 I - caráter nacional;
 
