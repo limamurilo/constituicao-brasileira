@@ -1,33 +1,33 @@
 # Sumário
 
-## Preâmbulo
+## [Preâmbulo](https://github.com/limamurilo/constituicao-brasileira/blob/master/Pre%C3%A2mbulo.md)
 
-## Título I – Dos Princípios Fundamentais (arts. 1o a 4o)
+## [Título I – Dos Princípios Fundamentais (arts. 1º a 4º)](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20I.md)
 
-## Título II – Dos Direitos e Garantias Fundamentais
+## [Título II – Dos Direitos e Garantias Fundamentais](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20II.md)
 	### Capítulo I – Dos Direitos e Deveres Individuais e Coletivos (art. 5o)
 	### Capítulo II – Dos Direitos Sociais (arts. 6o a 11)
 	### Capítulo III – Da nacionalidade (arts. 12 e 13)
 	### Capítulo IV – Dos Direitos Políticos (arts. 14 a 16) 
 	### Capítulo V – Dos Partidos Políticos (art. 17)
 
-## Título III – Da Organização do Estado
-	### Capítulo I – Da Organização Político-Administrativa (arts. 18 e 19)
-	### Capítulo II – Da união (arts. 20 a 24)
-	### Capítulo III – Dos Estados Federados (arts. 25 a 28) 
-	### Capítulo IV – Dos municípios (arts. 29 a 31)
-	### Capítulo V – Do Distrito Federal e dos Territórios
+## [Título III – Da Organização do Estado](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20III.md)
+### Capítulo I – Da Organização Político-Administrativa (arts. 18 e 19)
+### Capítulo II – Da união (arts. 20 a 24)
+### Capítulo III – Dos Estados Federados (arts. 25 a 28) 
+### Capítulo IV – Dos municípios (arts. 29 a 31)
+### Capítulo V – Do Distrito Federal e dos Territórios
 		Seção I – Do Distrito Federal (art. 32) 
 		Seção II – Dos Territórios (art. 33)
-	### Capítulo VI – Da Intervenção (arts. 34 a 36)
-	### Capítulo VII – Da Administração Pública
+### Capítulo VI – Da Intervenção (arts. 34 a 36)
+### Capítulo VII – Da Administração Pública
 		Seção I – Disposições gerais (arts. 37 e 38)
 		Seção II – Dos Servidores Públicos (arts. 39 a 41)
 		Seção III – Dos militares dos Estados, do Distrito Federal e dos Territórios (art. 42)
 		Seção IV – Das Regiões (art. 43) 
 
-## Título IV – Da Organização dos Poderes
-	### Capítulo I – Do Poder Legislativo
+## [Título IV – Da Organização dos Poderes](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20IV.md)
+### Capítulo I – Do Poder Legislativo
 		Seção I – Do Congresso nacional (arts. 44 a 47)
 		Seção II – Das Atribuições do Congresso nacional (arts. 48 a 50)
 		Seção III – Da Câmara dos Deputados (art. 51)
@@ -62,50 +62,50 @@
 		Seção II – Da Advocacia Pública (arts. 131 e 132)
 		Seção III – Da Advocacia e da Defensoria Pública (arts. 133 a 135) 
 
-## Título V – Da Defesa do Estado e das Instituições Democráticas
-	### Capítulo I – Do Estado de Defesa e do Estado de Sítio
+## [Título V – Da Defesa do Estado e das Instituições Democráticas](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20V.md)
+### Capítulo I – Do Estado de Defesa e do Estado de Sítio
 		Seção I – Do Estado de Defesa (art. 136)
 		Seção II – Do Estado de Sítio (arts. 137 a 139)
 		Seção III – Disposições gerais (arts. 140 e 141)
-	### Capítulo II – Das Forças Armadas (arts. 142 e 143)
-	### Capítulo III – Da Segurança Pública (art. 144)
+### Capítulo II – Das Forças Armadas (arts. 142 e 143)
+### Capítulo III – Da Segurança Pública (art. 144)
 
-## Título VI – Da Tributação e do Orçamento
-	### Capítulo I – Do Sistema Tributário nacional
+## [Título VI – Da Tributação e do Orçamento](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20VI.md)
+### Capítulo I – Do Sistema Tributário nacional
 		Seção I – Dos Princípios gerais (arts. 145 a 149-A)
 		Seção II – Das Limitações do Poder de Tributar (arts. 150 a 152)
 		Seção III – Dos Impostos da união (arts. 153 e 154)
 		Seção IV – Dos Impostos dos Estados e do Distrito Federal (art. 155)
 		Seção V – Dos Impostos dos municípios (art. 156)
 		Seção VI – Da Repartição das Receitas Tributárias (arts. 157 a 162)
-	### Capítulo II – Das Finanças Públicas
+### Capítulo II – Das Finanças Públicas
 		Seção I – normas gerais (arts. 163 e 164) 
 		Seção II – Dos Orçamentos (arts. 165 a 169) 
 
-## Título VII – Da Ordem Econômica e Financeira
-	### Capítulo I – Dos Princípios gerais da Atividade Econômica (arts. 170 a 181)
-	### Capítulo II – Da Política urbana (arts. 182 e 183)
-	### Capítulo III – Da Política Agrícola e Fundiária e da Reforma Agrária (arts. 184 a 191)
-	### Capítulo IV – Do Sistema Financeiro nacional (art. 192)
+## [Título VII – Da Ordem Econômica e Financeira](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20VII.md)
+### Capítulo I – Dos Princípios gerais da Atividade Econômica (arts. 170 a 181)
+### Capítulo II – Da Política urbana (arts. 182 e 183)
+### Capítulo III – Da Política Agrícola e Fundiária e da Reforma Agrária (arts. 184 a 191)
+### Capítulo IV – Do Sistema Financeiro nacional (art. 192)
 
-## Título VIII – Da Ordem Social
-	### Capítulo I – Disposição geral (art. 193)
-	### Capítulo II – Da Seguridade Social
+## [Título VIII – Da Ordem Social](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20VIII.md)
+### Capítulo I – Disposição geral (art. 193)
+### Capítulo II – Da Seguridade Social
 		Seção I – Disposições gerais (arts. 194 e 195)
 		Seção II – Da Saúde (arts. 196 a 200)
 		Seção III – Da Previdência Social (arts. 201 e 202) 
 		Seção IV – Da Assistência Social (arts. 203 e 204)
-	### Capítulo III – Da Educação, da Cultura e do Desporto
+### Capítulo III – Da Educação, da Cultura e do Desporto
 		Seção I – Da Educação (arts. 205 a 214)
 		Seção II – Da Cultura (arts. 215 e 216) 
 		Seção III – Do Desporto (art. 217)
-	### Capítulo IV – Da Ciência e Tecnologia (arts. 218 e 219)
-	### Capítulo V – Da Comunicação Social (arts. 220 a 224)
-	### Capítulo VI – Do meio Ambiente (art. 225)
-	### Capítulo VII – Da Família, da Criança, do Adolescente, do Jovem e do Idoso (arts. 226 a 230)
-	### Capítulo VIII – Dos Índios (arts. 231 e 232)
+### Capítulo IV – Da Ciência e Tecnologia (arts. 218 e 219)
+### Capítulo V – Da Comunicação Social (arts. 220 a 224)
+### Capítulo VI – Do meio Ambiente (art. 225)
+### Capítulo VII – Da Família, da Criança, do Adolescente, do Jovem e do Idoso (arts. 226 a 230)
+### Capítulo VIII – Dos Índios (arts. 231 e 232)
 
-## Título IX – Das Disposições Constitucionais Gerais (arts. 233 a 250)
+## [Título IX – Das Disposições Constitucionais Gerais (arts. 233 a 250)](https://github.com/limamurilo/constituicao-brasileira/blob/master/Titulo%20IX.md)
 
 # Ato das Disposições Constitucionais Transitórias (arts. 1o a 97) 
 
@@ -119,7 +119,7 @@
 	Emenda Constitucional no 7, de 1995 
 	Emenda Constitucional no 8, de 1995 
 	Emenda Constitucional no 9, de 1995 
-    Emenda Constitucional no 10, de 1996 
+	Emenda Constitucional no 10, de 1996 
     Emenda Constitucional no 11, de 1996 
     Emenda Constitucional no 12, de 1996 
     Emenda Constitucional no 13, de 1996 
