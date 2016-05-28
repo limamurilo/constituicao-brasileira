@@ -1,15 +1,45 @@
-SUmárIO
-Preâmbulo ................................................................................................................................9 Título I – Dos Princípios Fundamentais (arts. 1o a 4o) ........................................................ 11 Título II – Dos Direitos e Garantias Fundamentais
-Capítulo I – Dos Direitos e Deveres Individuais e Coletivos (art. 5o) ....................................13 Capítulo II – Dos Direitos Sociais (arts. 6o a 11) ....................................................................18 Capítulo III – Da nacionalidade (arts. 12 e 13) ......................................................................20 Capítulo IV – Dos Direitos Políticos (arts. 14 a 16) ................................................................ 21 Capítulo V – Dos Partidos Políticos (art. 17) .......................................................................... 23 Título III – Da Organização do Estado
-Capítulo I – Da Organização Político-Administrativa (arts. 18 e 19) .....................................25 Capítulo II – Da união (arts. 20 a 24) ....................................................................................25 Capítulo III – Dos Estados Federados (arts. 25 a 28) .............................................................. 30 Capítulo IV – Dos municípios (arts. 29 a 31)..........................................................................31 Capítulo V – Do Distrito Federal e dos Territórios
-Seção I – Do Distrito Federal (art. 32) ..................................................................................34
-Seção II – Dos Territórios (art. 33) ........................................................................................ 35 Capítulo VI – Da Intervenção (arts. 34 a 36)...........................................................................35 Capítulo VII – Da Administração Pública
-Seção I – Disposições gerais (arts. 37 e 38)..........................................................................36 Seção II – Dos Servidores Públicos (arts. 39 a 41)................................................................39 Seção III – Dos militares dos Estados, do Distrito Federal e dos Territórios (art. 42) .......... 43 Seção IV – Das Regiões (art. 43) .......................................................................................... 43
-Título IV – Da Organização dos Poderes
-Capítulo I – Do Poder Legislativo
-Seção I – Do Congresso nacional (arts. 44 a 47) .................................................................. 45 Seção II – Das Atribuições do Congresso nacional (arts. 48 a 50) ....................................... 45 Seção III – Da Câmara dos Deputados (art. 51) ................................................................... 47 Seção IV – Do Senado Federal (art. 52) ................................................................................ 47 Seção V – Dos Deputados e dos Senadores (arts. 53 a 56)....................................................48 Seção VI – Das Reuniões (art. 57).........................................................................................50 Seção VII – Das Comissões (art. 58) ..................................................................................... 51 Seção VIII – Do Processo Legislativo
-Subseção I – Disposição geral (art. 59) ..............................................................................52 Subseção II – Da Emenda à Constituição (art. 60) .............................................................. 52 Subseção III – Das Leis (arts. 61 a 69) ................................................................................ 53
-Seção Ix – Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75).................56 Capítulo II – Do Poder Executivo
+# Sumário
+
+## Preâmbulo
+
+## Título I – Dos Princípios Fundamentais (arts. 1o a 4o)
+## Título II – Dos Direitos e Garantias Fundamentais
+	### Capítulo I – Dos Direitos e Deveres Individuais e Coletivos (art. 5o)
+	### Capítulo II – Dos Direitos Sociais (arts. 6o a 11)
+	### Capítulo III – Da nacionalidade (arts. 12 e 13)
+	### Capítulo IV – Dos Direitos Políticos (arts. 14 a 16) 
+	### Capítulo V – Dos Partidos Políticos (art. 17)
+
+## Título III – Da Organização do Estado
+	### Capítulo I – Da Organização Político-Administrativa (arts. 18 e 19)
+	### Capítulo II – Da união (arts. 20 a 24)
+	### Capítulo III – Dos Estados Federados (arts. 25 a 28) 
+	### Capítulo IV – Dos municípios (arts. 29 a 31)
+	### Capítulo V – Do Distrito Federal e dos Territórios
+		Seção I – Do Distrito Federal (art. 32) 
+		Seção II – Dos Territórios (art. 33)
+	### Capítulo VI – Da Intervenção (arts. 34 a 36)
+	### Capítulo VII – Da Administração Pública
+		Seção I – Disposições gerais (arts. 37 e 38)
+		Seção II – Dos Servidores Públicos (arts. 39 a 41)
+		Seção III – Dos militares dos Estados, do Distrito Federal e dos Territórios (art. 42)
+		Seção IV – Das Regiões (art. 43) 
+
+## Título IV – Da Organização dos Poderes
+	### Capítulo I – Do Poder Legislativo
+		Seção I – Do Congresso nacional (arts. 44 a 47)
+		Seção II – Das Atribuições do Congresso nacional (arts. 48 a 50)
+		Seção III – Da Câmara dos Deputados (art. 51)
+		Seção IV – Do Senado Federal (art. 52)
+		Seção V – Dos Deputados e dos Senadores (arts. 53 a 56)
+		Seção VI – Das Reuniões (art. 57)
+		Seção VII – Das Comissões (art. 58)
+		Seção VIII – Do Processo Legislativo
+			Subseção I – Disposição geral (art. 59) 
+			Subseção II – Da Emenda à Constituição (art. 60) 
+			Subseção III – Das Leis (arts. 61 a 69) 
+			Seção Ix – Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75)
+		Capítulo II – Do Poder Executivo
 Seção I – Do Presidente e do Vice-Presidente da República (arts. 76 a 83)..........................58 Seção II – Das Atribuições do Presidente da República (art. 84) .......................................... 59 Seção III – Da Responsabilidade do Presidente da República (arts. 85 e 86) ...................... 61 Seção IV – Dos ministros de Estado (arts. 87 e 88) .............................................................. 61 Seção V – Do Conselho da República e do Conselho de Defesa nacional
 Subseção I – Do Conselho da República (arts. 89 e 90)......................................................62
 Subseção II – Do Conselho de Defesa nacional (art. 91)....................................................62 Capítulo III – Do Poder Judiciário
