@@ -3,6 +3,7 @@
 ## Preâmbulo
 
 ## Título I – Dos Princípios Fundamentais (arts. 1o a 4o)
+
 ## Título II – Dos Direitos e Garantias Fundamentais
 	### Capítulo I – Dos Direitos e Deveres Individuais e Coletivos (art. 5o)
 	### Capítulo II – Dos Direitos Sociais (arts. 6o a 11)
