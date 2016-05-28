@@ -2,7 +2,7 @@
 
 ## Capítulo I – Dos Direitos e Deveres Individuais e Coletivos (art. 5o)
 
-Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+**Art. 5º** Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
 
 I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
 
